@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+}
+
+img {
+    /* border-width: 4px;
+    border-color: yellow;
+    border-style: solid; */
+    border: 14px solid yellow;
+}
+
+.heading-name {
+    background-color: darksalmon;
+
+}
